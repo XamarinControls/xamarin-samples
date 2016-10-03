@@ -6,6 +6,6 @@ Ruirements:
  - offline translation using xml resources
  - switching between translation sources
  - autocomplete suggestions
- - Xamarin.iOS Gui
+ - Xamarin.iOS Gui including Animations, busy indicator, custom list view
  - MvvmCross, Databinding, IoC, UnitTests
  - clean code:)
