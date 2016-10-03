@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TRANSLATIONS>
+  <RECORD word="Erfolg" culture="de-DE">
+    <LINK word="success" culture="en-US" />
+    <LINK word="result" culture="en-US" />
+    <LINK word="achievement" culture="en-US" />
+  </RECORD>
+  <RECORD word="success" culture="en-US">
+    <LINK word="Erfolg" culture="de-DE" />
+    <LINK word="Gelingen" culture="de-DE" />
+    <LINK word="Gedeihen" culture="de-DE" />
+  </RECORD>
+  <RECORD word="result" culture="en-US">
+    <LINK word="Ergebnis" culture="de-DE" />
+    <LINK word="Resultat" culture="de-DE" />
+    <LINK word="Folge" culture="de-DE" />
+  </RECORD>
+  <RECORD word="achievement" culture="en-US">
+    <LINK word="Leistung" culture="de-DE" />
+    <LINK word="Erfüllung" culture="de-DE" />
+    <LINK word="Erzielen" culture="de-DE" />
+  </RECORD>
+  <RECORD word="Gedeihen" culture="de-DE">
+    <LINK word="thrive" culture="en-US" />
+    <LINK word="flourishing" culture="en-US" />
+    <LINK word="success" culture="en-US" />
+  </RECORD>
+  <RECORD word="Gelingen" culture="de-DE">
+    <LINK word="success" culture="en-US" />
+    <LINK word="successful outcome" culture="en-US" />
+  </RECORD>
+  <RECORD word="Resultat" culture="de-DE">
+    <LINK word="result" culture="en-US" />
+    <LINK word="outcome" culture="en-US" />
+  </RECORD>
+  <RECORD word="Folge" culture="de-DE">
+    <LINK word="effect" culture="en-US" />
+    <LINK word="episode" culture="en-US" />
+    <LINK word="sequence" culture="en-US" />
+  </RECORD>
+  <RECORD word="Leistung" culture="de-DE">
+    <LINK word="performance" culture="en-US" />
+    <LINK word="power" culture="en-US" />
+    <LINK word="effort" culture="en-US" />
+  </RECORD>
+  <RECORD word="Erfüllung" culture="de-DE">
+    <LINK word="fulfillment" culture="en-US" />
+    <LINK word="performance" culture="en-US" />
+    <LINK word="satisfaction" culture="en-US" />
+  </RECORD>
+</TRANSLATIONS>
